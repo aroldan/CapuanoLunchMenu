@@ -2,7 +2,7 @@ const BUILDING_ID = '2392b58e-48e6-eb11-a2c9-d2abdd85801a'
 const DISTRICT_ID  = '7810c14e-a7e4-eb11-a2c5-8cc0b3a2728d'
 const API_URL      = 'https://api.linqconnect.com/api/FamilyMenu'
 
-const HOT_CATEGORIES  = new Set(['hot entree', 'hot sandwich'])
+const HOT_CATEGORIES  = new Set(['hot entree', 'hot sandwich', 'breakfast entree'])
 const SIDE_CATEGORIES = new Set(['side', 'vegetable'])
 const ALT_CATEGORIES  = new Set(['deli', 'grab and go salad'])
 
